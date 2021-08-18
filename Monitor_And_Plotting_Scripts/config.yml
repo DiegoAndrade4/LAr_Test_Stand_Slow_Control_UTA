@@ -1,0 +1,11 @@
+# Email config
+subject: "Alert - Oxygen level"
+email: "XXXXXXX@gmail.com"
+password: "XXXXXXX"
+recipients:
+  #  - "XXXXX@hotmail.com"
+  - "dandradealdana@hawk.iit.edu"
+
+
+
+
