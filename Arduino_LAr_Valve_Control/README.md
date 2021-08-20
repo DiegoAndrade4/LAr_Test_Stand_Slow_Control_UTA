@@ -1,5 +1,5 @@
 # Arduino_LAr_Valve_Control
-
+```
 
 Supported commands on Arduino IDE Serial Monitor (lower-case) 
 
@@ -34,13 +34,5 @@ Input voltage and resistor values must be set in the Sensor_Control.h
 
 
 
-
-
-
-
-
-
-
-
-
 This project is based on the GitHub repo AustinMcDonald/ LAr_Valve_Control
+```
